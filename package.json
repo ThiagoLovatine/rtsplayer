@@ -1,0 +1,33 @@
+{
+  "name": "rtsplayer",
+  "version": "1.0.0",
+  "description": "Cordova plugin exposing the iOS Speech Recognition API",
+  "cordova": {
+    "id": "cordova.plugins.rtsplayer",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoLovatine/rtsplayer"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThiagoLovatine/rtsplayer/issues"
+  },
+  "homepage": "https://github.com/ThiagoLovatine/rtsplayer"
+}
